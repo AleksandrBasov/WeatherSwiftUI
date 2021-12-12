@@ -61,12 +61,12 @@
 			path = ViewModel;
 			sourceTree = "<group>";
 		};
-		FC2211D9276665A3000791CB /* Controllers */ = {
+		FC2211D9276665A3000791CB /* View */ = {
 			isa = PBXGroup;
 			children = (
 				FCA300B527590AFD00C8BB67 /* ContentView.swift */,
 			);
-			path = Controllers;
+			path = View;
 			sourceTree = "<group>";
 		};
 		FC2211DA276665B3000791CB /* Service */ = {
@@ -98,8 +98,8 @@
 			children = (
 				FC2211D0276664AF000791CB /* App */,
 				FC2211D62766658C000791CB /* Model */,
+				FC2211D9276665A3000791CB /* View */,
 				FC2211D727666598000791CB /* ViewModel */,
-				FC2211D9276665A3000791CB /* Controllers */,
 				FC2211DA276665B3000791CB /* Service */,
 				FCA300B727590B0000C8BB67 /* Assets.xcassets */,
 				FCA300BC27590B0000C8BB67 /* Info.plist */,
