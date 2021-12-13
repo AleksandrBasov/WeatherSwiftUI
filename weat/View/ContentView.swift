@@ -181,7 +181,7 @@ struct WeatherNameCategory: View {
                 .font(.headline)
                 .fontWeight(.bold)
                 .multilineTextAlignment(.leading)
-                .padding(.leading, -190)
+                .padding(.leading, -170)
                 .padding(.top, 5)
                 .foregroundColor(.white)
         }
